@@ -3,7 +3,7 @@ const
     port = process.env.PORT || 3000,
     app = express();
 
-app.use(express.static('Files'));
+app.use(express.static('public'));
 
 app.get('/',(req , res)=>{
     res.status(200).sendFile('index.html')
