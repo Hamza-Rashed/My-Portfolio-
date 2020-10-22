@@ -1,6 +1,6 @@
 # My-Portfolio lab 05
 
-# Live Link : ![My Protfolil](https://my-portfolio-ltuc.herokuapp.com/)
+# Live Link : [My Protfolil](https://my-portfolio-ltuc.herokuapp.com/)
 
 ## Feature #1 : Deployment
 
